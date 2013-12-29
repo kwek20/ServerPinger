@@ -1,0 +1,6 @@
+name: Serverpinger
+main: net.brord.plugins.serverpinger.ServerPinger
+version: 0.1
+description: Updates the server ping
+authors: [kwek20]
+depend: [ProtocolLib]

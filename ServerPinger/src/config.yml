@@ -1,0 +1,13 @@
+#--------------------------
+# [ServerPinger] config.yml
+# -------------------------
+# Config for the ServerPinger plugin.
+# <players> will be replaced with all the players online, separated with a , 
+# <numplayers> will be replaced with the amount of online players
+# <motd> will be replaced with the servers message of the day
+# <ip> will be replaced with teh serer IP
+# <port> will be replaced with teh server port
+# <worlds> will be replaced with all the worlds
+# &[] (colorcodes) will be replaced with the color
+
+text: ["Im a lazy server", "I should update my server ping text", "I can find this in the ServerPinger config.yml"]
